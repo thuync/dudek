@@ -1,0 +1,2 @@
+# dudek
+Python utility library
